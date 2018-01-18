@@ -153,13 +153,30 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="4-adjacent.cpp" />
+    <ClCompile Include="Buggy Robot.cpp" />
+    <ClCompile Include="Christmas Spruce.cpp" />
+    <ClCompile Include="FastPowercpp.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="Find Extra One.cpp" />
+    <ClCompile Include="Firefox strike back!.cpp" />
+    <ClCompile Include="fpow-1th-edi.cpp" />
+    <ClCompile Include="Garden.cpp" />
+    <ClCompile Include="Grid Coloring.cpp" />
     <ClCompile Include="oj1.cpp" />
+    <ClCompile Include="paint the fence.cpp" />
+    <ClCompile Include="pushpush.cpp" />
+    <ClCompile Include="Splitting Pile.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Tic-Tac-Toe.cpp" />
+    <ClCompile Include="Two Switches.cpp" />
+    <ClCompile Include="UF.cpp" />
+    <ClCompile Include="visiting a friend.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
